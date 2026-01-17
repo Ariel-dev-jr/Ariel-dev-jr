@@ -1,6 +1,6 @@
 ## Olá, Bem-vindo ao meu Git!
 
-<img src="download.jpeg" width="100" alt="imagem dev">
+<img src="download.jpeg" width="250" alt="imagem dev">
 
 ----
 📌 Me chamo Jariel Alves e sou um Dev jr!                          
